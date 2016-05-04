@@ -1,0 +1,10 @@
+setuptools
+ipython[all]
+jupyter[all]
+jupyter_core
+jinja2
+pymonad
+fn.py
+pysistence
+pyrsistent
+Funktown
